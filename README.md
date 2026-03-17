@@ -1,26 +1,26 @@
-# Hi there, I'm Zera! 👋
+<div align="center">
 
-I'm a **Full-stack Developer** based in Brazil, focused on building clean code and learning new technologies every day.
+# ✧.* zera7z *.✧
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpZzV5amF0bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qWoubkSvEAbNJAq7n7/giphy.gif" width="380"/>
 
-### 🚀 About Me
-- 🔭 I’m currently working on improving my portfolio and logic skills.
-- 🌱 I’m currently learning **[Insert current tech, e.g., React or Node.js]**.
-- ⚡ Fun fact: I love solving problems and building functional web applications.
-- 💬 Ask me about: HTML, CSS, JavaScript, and [Your best language].
+*"building things, one line at a time."*
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 📊 My GitHub Stats
-![Zera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zera7z&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zera7z&layout=compact&theme=radical)
+`html` • `css` • `javascript` • `python`
 
 ---
 
-### 📫 How to reach me:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vVFThp88)
+### ✦ stats ✦
+
+[![](https://github-readme-stats.vercel.app/api?username=Zera7z&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✦ connect ✦
+[discord](https://discord.gg/vVFThp88) • [portfolio](https://zera7z.github.io/Portifolio-Simples/)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Zera7z&color=7aa2f7&style=flat-square&label=VISITS" alt="views" />
+
+</div>
