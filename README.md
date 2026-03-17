@@ -2,7 +2,7 @@
 
 # ✧.* zera7z *.✧
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpZzV5amF0bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qWoubkSvEAbNJAq7n7/giphy.gif" width="380"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydnR5N2R1cG1qejIxNG96d3M0aTFobXBmMXpra3F1aHExMndsdnNjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pz" width="380"/>
 
 *"building things, one line at a time."*
 
